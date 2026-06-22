@@ -258,4 +258,4 @@ This project demonstrates how Exploratory Data Analysis (EDA) can be used to tra
 
 ---
 
-### ⭐ If you found this project helpful, don't forget to star the repository and connect with me on LinkedIn!
+### If you found this project helpful, don't forget to star the repository and connect with me on LinkedIn!
